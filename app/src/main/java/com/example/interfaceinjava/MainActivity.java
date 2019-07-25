@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         boxerB.throwHook();
         boxerA.throwCross();
         boxerB.throwUppercut();
+        boxerB.throwCross();
 
 
         btnThrowJab.setOnClickListener(new View.OnClickListener() {
